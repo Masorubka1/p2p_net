@@ -2,6 +2,7 @@
 
 ## Overview
 This program is designed to operate as a peer-to-peer (P2P) message relay, forwarding random messages to a specified set of peers at regular intervals. It utilizes WebSocket connections to communicate with other nodes in the network.
+For more detailed instructions and project background, refer to the task description[task description](https://hackmd.io/@r3XngjBBSumx2rU-hKU7Qg/BkbHS80cv).
 
 ## Features
 - WebSocket-based message forwarding.
